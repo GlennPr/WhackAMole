@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2821c17e59ee772428a4386f4b48a22a, type: 3}
+  m_Name: 0_Easy
+  m_EditorClassIdentifier: 
+  _data:
+    _scoreMultiplier: 3
+    _maxSpawnActiveCount: 4
+    _playSessionDurationSec: 120
+    _defaultMole: {fileID: 11400000, guid: 36c5042e0bf1db843a4bd5abf306182e, type: 2}
+    _specialMole: {fileID: 11400000, guid: cb023f02959a98d4a83990c20f0ad2e3, type: 2}
+    _specialMoleAppearChance: 0.2

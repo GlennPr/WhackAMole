@@ -1,0 +1,2 @@
+# WhackAMole
+WhackAMole assignment
